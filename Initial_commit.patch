@@ -1,0 +1,13 @@
+Subject: [PATCH] Initial commit
+---
+Index: first.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/first.py b/first.py
+--- a/first.py	(revision cd2ea07efac8d21ab67b2edc8df6f7d0eaa733e0)
++++ b/first.py	(date 1702317529546)
+@@ -1,1 +1,2 @@
+ print("My first git-repo")
++#something
